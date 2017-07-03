@@ -1,0 +1,13 @@
+{
+  "name": "koapp-oembed-connection",
+  "authors": "King of App",
+  "description": "Oembed service for koapp",
+  "keywords": [
+    "kingofapp",
+    "service"
+  ],
+  "license": "MIT",
+  "homepage": "http://kingofapp.com",
+  "dependencies": {
+  }
+}
